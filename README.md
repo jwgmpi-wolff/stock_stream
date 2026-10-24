@@ -2,6 +2,14 @@
 
 StockStreamPortfolio is a secure Android + Azure solution for authenticated stock watchlists and portfolio views with live market data safeguards.
 
+<!-- project-downloads:start -->
+## APK and installer downloads
+
+No packaged APK or desktop installer is currently published for this repository. The source archive below is not an installer; use the project-specific setup and build instructions.
+
+- [Download the complete source ZIP](https://github.com/jwgmpi-wolff/stock_stream/archive/refs/heads/main.zip).
+<!-- project-downloads:end -->
+
 ## Backend Choice
 
 This implementation uses **ASP.NET Core on Azure App Service + Azure SignalR Service**.
@@ -157,3 +165,9 @@ Required GitHub secrets:
 ## No Hallucinated Data Policy
 
 See `docs/no-hallucinated-data-policy.md` for mandatory behavior and test expectations.
+
+## Copyright
+
+Copyright (c) 2026 Jerry Wolff. See [COPYRIGHT](COPYRIGHT) for the scope of this
+notice. Existing licenses and third-party attribution remain unchanged; this
+notice does not grant additional permissions.
